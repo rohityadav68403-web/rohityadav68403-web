@@ -6,30 +6,30 @@
 <line x1="70" y1="195" x2="660" y2="195" stroke="#23496d"/>
 <line x1="70" y1="245" x2="660" y2="245" stroke="#23496d"/>
 <line x1="70" y1="295" x2="660" y2="295" stroke="#23496d"/>
-<text x="35" y="100" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">156</text>
-<text x="35" y="150" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">117</text>
-<text x="35" y="200" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">78</text>
-<text x="35" y="250" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">39</text>
+<text x="35" y="100" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">158</text>
+<text x="35" y="150" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">118</text>
+<text x="35" y="200" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">79</text>
+<text x="35" y="250" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">40</text>
 <text x="35" y="300" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">0</text>
-<rect x="84.6" y="95.0" width="55" height="200.0" rx="4" fill="#287cff"/>
-<text x="102.64285714285714" y="85.0" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">156</text>
+<rect x="84.6" y="97.5" width="55" height="197.5" rx="4" fill="#287cff"/>
+<text x="102.64285714285714" y="87.53164556962025" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">156</text>
 <text x="96.64285714285714" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Mon</text>
-<rect x="168.9" y="112.9" width="55" height="182.1" rx="4" fill="#21d18b"/>
-<text x="186.92857142857142" y="102.94871794871796" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">142</text>
+<rect x="168.9" y="115.3" width="55" height="179.7" rx="4" fill="#21d18b"/>
+<text x="186.92857142857142" y="105.25316455696202" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">142</text>
 <text x="180.92857142857142" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Tue</text>
-<rect x="253.2" y="114.2" width="55" height="180.8" rx="4" fill="#7747e8"/>
-<text x="271.2142857142857" y="104.23076923076923" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">141</text>
+<rect x="253.2" y="116.5" width="55" height="178.5" rx="4" fill="#7747e8"/>
+<text x="271.2142857142857" y="106.51898734177215" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">141</text>
 <text x="265.2142857142857" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Wed</text>
-<rect x="337.5" y="101.4" width="55" height="193.6" rx="4" fill="#ff9d32"/>
-<text x="355.50000000000006" y="91.41025641025641" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">151</text>
+<rect x="337.5" y="103.9" width="55" height="191.1" rx="4" fill="#ff9d32"/>
+<text x="355.50000000000006" y="93.86075949367088" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">151</text>
 <text x="349.50000000000006" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Thu</text>
-<rect x="421.8" y="110.4" width="55" height="184.6" rx="4" fill="#f04b5d"/>
-<text x="439.78571428571433" y="100.38461538461539" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">144</text>
+<rect x="421.8" y="112.7" width="55" height="182.3" rx="4" fill="#f04b5d"/>
+<text x="439.78571428571433" y="102.72151898734177" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">144</text>
 <text x="433.78571428571433" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Fri</text>
-<rect x="506.1" y="96.3" width="55" height="198.7" rx="4" fill="#19bce8"/>
-<text x="524.0714285714287" y="86.28205128205127" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">155</text>
+<rect x="506.1" y="95.0" width="55" height="200.0" rx="4" fill="#19bce8"/>
+<text x="524.0714285714287" y="85.0" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">158</text>
 <text x="518.0714285714287" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Sat</text>
-<rect x="590.4" y="121.9" width="55" height="173.1" rx="4" fill="#e843a8"/>
-<text x="608.3571428571429" y="111.9230769230769" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">135</text>
+<rect x="590.4" y="124.1" width="55" height="170.9" rx="4" fill="#e843a8"/>
+<text x="608.3571428571429" y="114.1139240506329" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">135</text>
 <text x="602.3571428571429" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Sun</text>
 </svg>
