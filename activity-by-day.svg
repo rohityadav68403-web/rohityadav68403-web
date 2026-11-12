@@ -20,8 +20,8 @@
 <rect x="253.2" y="111.7" width="55" height="183.3" rx="4" fill="#7747e8"/>
 <text x="271.2142857142857" y="101.66666666666669" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">154</text>
 <text x="265.2142857142857" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Wed</text>
-<rect x="337.5" y="103.3" width="55" height="191.7" rx="4" fill="#ff9d32"/>
-<text x="355.50000000000006" y="93.33333333333331" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">161</text>
+<rect x="337.5" y="101.0" width="55" height="194.0" rx="4" fill="#ff9d32"/>
+<text x="355.50000000000006" y="90.95238095238096" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">163</text>
 <text x="349.50000000000006" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Thu</text>
 <rect x="421.8" y="116.4" width="55" height="178.6" rx="4" fill="#f04b5d"/>
 <text x="439.78571428571433" y="106.42857142857142" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">150</text>
